@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.12.6)  6 DEC 2021 22:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.12.6)  7 DEC 2021 00:00
 entering extended mode
 **"d:/KELAS ONLINE/semester 7/Pra-TA/ProposalPraTA-dariAndan/main.tex"
 (d:/KELAS ONLINE/semester 7/Pra-TA/ProposalPraTA-dariAndan/main.tex
@@ -482,7 +482,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
 
-<gambar/Metodologi.png, id=69, 547.2947pt x 85.82062pt>
+<gambar/Metodologi.png, id=68, 547.2947pt x 85.82062pt>
 File: gambar/Metodologi.png Graphic file (type png)
 <use gambar/Metodologi.png>
 Package pdftex.def Info: gambar/Metodologi.png  used on input line 40.
@@ -491,32 +491,34 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has be
 <to be read again> 
                    \relax 
 l.46 
-      [3]) (konten/4-lainnya.tex)
-No file main.bbl.
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+      [3]) (konten/4-lainnya.tex) (main.bbl
+
+Package natbib Warning: Empty `thebibliography' environment on input line 8.
+
+)pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.82 \end{document}
-                    [4pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
+l.80   \cleardoublepage
+                        [4pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.82 \end{document}
-                    <./gambar/Metodologi.png>] (main.aux)
+l.80   \cleardoublepage
+                        <./gambar/Metodologi.png>] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C11AF1E0BE0CEDEC6B2B696174F83328;2175.
+(rerunfilecheck)             Checksum: 905119921BD0881F66A4FC6DB9BC6B12;2162.
  ) 
 Here is how much of TeX's memory you used:
- 12003 strings out of 478927
- 184962 string characters out of 2853009
+ 12004 strings out of 478927
+ 185019 string characters out of 2853009
  626594 words of memory out of 3000000
  29645 multiletter control sequences out of 15000+600000
  406477 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,12n,81p,994b,338s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/alan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/alan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/alan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (4 pages, 76100 bytes).
+Output written on main.pdf (4 pages, 75740 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 21 named destinations out of 1000 (max. 500000)
+ 103 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
  118 words of extra memory for PDF output out of 10000 (max. 10000000)
 
