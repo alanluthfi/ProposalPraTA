@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1638811301 "main.aux" "main.bbl" "main" 1638811302
+["bibtex main"] 1638877300 "main.aux" "main.bbl" "main" 1638877303
   "C:/Users/alan/AppData/Local/Programs/MiKTeX/bibtex/bst/natbib/unsrtnat.bst" 1284455456 24550 a41a6405f4de768c43e871d9fbce2bc8 ""
   "dafpus/pustaka.bib" 1638811299 2290 4e1f9d582d3b24536c43edb33abf773c ""
-  "main.aux" 1638810041 2658 ce0b588b2b9f30f898c9c7e5a665c20b "pdflatex"
+  "main.aux" 1638877303 2949 602e32caf08b78eb1b9b82f5021c9f0c "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1638810038 "d:/KELAS ONLINE/semester 7/Pra-TA/ProposalPraTA-dariAndan/main.tex" "main.pdf" "main" 1638811302
+["pdflatex"] 1638877301 "d:/KELAS ONLINE/semester 7/Pra-TA/ProposalPraTA-dariAndan/main.tex" "main.pdf" "main" 1638877303
   "C:/Users/alan/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1638802013 9714910 364a450994d63fef78099d2bfbc4add8 ""
   "C:/Users/alan/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1638802183 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/alan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -19,9 +19,13 @@
   "C:/Users/alan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/alan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/alan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
+  "C:/Users/alan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti10.tfm" 1136765053 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
+  "C:/Users/alan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmtt10.tfm" 1136765053 768 1321e9409b4137d6fb428ac9dc956269 ""
   "C:/Users/alan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Users/alan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/alan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "C:/Users/alan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247596667 37944 359e864bd06cde3b1cf57bb20757fb06 ""
+  "C:/Users/alan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb" 1247596667 31099 c85edf1dd5b9e826d67c9c7293b6786c ""
   "C:/Users/alan/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/alan/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/alan/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.def" 1626972176 123985 95be6f36f6c54070fdcb3cb50663eed2 ""
@@ -94,15 +98,15 @@
   "C:/Users/alan/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1622550326 31530 f9ba11d1c179e918d577463ebdb887ca ""
   "C:/Users/alan/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/alan/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1623005660 55589 34128738f682d033422ca125f82e5d62 ""
-  "d:/KELAS ONLINE/semester 7/Pra-TA/ProposalPraTA-dariAndan/main.tex" 1638810027 2246 865e41d1d3ee258165a5493afde07d16 ""
+  "d:/KELAS ONLINE/semester 7/Pra-TA/ProposalPraTA-dariAndan/main.tex" 1638872148 2246 865e41d1d3ee258165a5493afde07d16 ""
   "gambar/Metodologi.png" 1638805266 7011 c1485ae23abde62884e29c3ff8f4730e ""
-  "konten/1-pendahuluan.tex" 1638803364 2526 276895bf47582f7f95b8f9164b5d5fa4 ""
-  "konten/2-tinjauan-pustaka.tex" 1638803920 10063 8fa4f4932cc3bea1e12d41cfca00ab16 ""
+  "konten/1-pendahuluan.tex" 1638877176 2545 2dad5a2153c55c2c2aee6d96ef1fc1d2 ""
+  "konten/2-tinjauan-pustaka.tex" 1638877293 10105 d162fd96500a21d3fa2d161312a54613 ""
   "konten/3-metodologi.tex" 1638805723 2916 a9e0ef531262e31b58c9b1497a87e7e7 ""
   "konten/4-lainnya.tex" 1638806142 1398 049d5aeefef9ff7f8484f84021bf2952 ""
-  "main.aux" 1638810041 2658 ce0b588b2b9f30f898c9c7e5a665c20b "pdflatex"
-  "main.bbl" 1638811302 283 e801e4a123aa393540ba282afe6d2466 "bibtex main"
-  "main.out" 1638810041 2162 905119921bd0881f66a4fc6db9bc6b12 "pdflatex"
+  "main.aux" 1638877303 2949 602e32caf08b78eb1b9b82f5021c9f0c "pdflatex"
+  "main.bbl" 1638877301 1223 7bb81ce8620909043912302d5da2dfe8 "bibtex main"
+  "main.out" 1638877303 2162 905119921bd0881f66a4fc6db9bc6b12 "pdflatex"
   "pengesahan/pengesahan.tex" 1638803251 3256 bdf67129e1c0193ee4071b6e1c86f0e2 ""
   (generated)
   "main.aux"

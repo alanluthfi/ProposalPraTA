@@ -1,8 +1,30 @@
-\begin{thebibliography}{0}
+\begin{thebibliography}{3}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Lant and Lawson(2016)]{Lant2016}
+Carol~Le Lant and Michael~J. Lawson.
+\newblock \emph{Interactive Whiteboard Use and Student Engagement}, pages
+  33--42.
+\newblock SensePublishers, Rotterdam, 2016.
+\newblock ISBN 978-94-6300-672-9.
+\newblock \doi{10.1007/978-94-6300-672-9_4}.
+\newblock URL \url{https://doi.org/10.1007/978-94-6300-672-9_4}.
+
+\bibitem[LeCun et~al.(2015)LeCun, Bengio, and Hinton]{article}
+Yann LeCun, Y.~Bengio, and Geoffrey Hinton.
+\newblock Deep learning.
+\newblock \emph{Nature}, 521:\penalty0 436--44, 05 2015.
+\newblock \doi{10.1038/nature14539}.
+
+\bibitem[Redmon et~al.(2016)Redmon, Divvala, Girshick, and
+  Farhadi]{Redmon_2016_CVPR}
+Joseph Redmon, Santosh Divvala, Ross Girshick, and Ali Farhadi.
+\newblock You only look once: Unified, real-time object detection.
+\newblock In \emph{Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition (CVPR)}, June 2016.
 
 \end{thebibliography}
